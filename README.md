@@ -1,6 +1,8 @@
-## Demandeurs d'emploi en fin de mois
+# Demandeurs d'emploi en fin de mois
 
-Ce projet a pour objectif de mettre les données sur les demandeurs d’emploi inscrits à Pôle emploi dans un format facilement réutilisable.
+Ce projet a pour objectif de mettre les données sur les demandeurs d’emploi inscrits à Pôle emploi en fin de mois dans un format facilement réutilisable.
+
+Toutes les données sont exportées au format csv (séparateur ",") encodé en utf-8.
 
 ## Data
 
